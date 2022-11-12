@@ -60,3 +60,22 @@
 </b>
 </div>
 </details>
+<details>
+<summary><h4>Premium Stickers</h4></summary>
+
+<div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/Gif.mp4">
+
+<b>
+<a href="https://t.me/addstickers/Maxim16XStickers">Get Stickers</a>
+
+</b>
+</div>
+</details>
+
+
+
+
+
+
+
+
