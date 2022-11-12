@@ -71,8 +71,28 @@
 </b>
 </div>
 </details>
+<details>
+<summary><h4>Lycoris Recoil</h4></summary>
 
+<div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/9.jpg">
 
+<b>
+<a href="https://t.me/addstickers/Maxim17XStickers">Get Stickers</a>
+
+</b>
+</div>
+</details>
+<details>
+<summary><h4>Ayumu Tanaka</h4></summary>
+
+<div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/10.jpg">
+
+<b>
+<a href="https://t.me/addstickers/Maxim18XStickers">Get Stickers</a>
+
+</b>
+</div>
+</details>
 
 
 
