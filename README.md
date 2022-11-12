@@ -22,7 +22,9 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/2.jpg">
 
 <b>
-• <a href="https://t.me/addstickers/Maxim7XStickers">VOLUME 1</a> • <a href="https://t.me/addstickers/Maxim8XStickers">VOLUME 2</a> •</b>
+• <a href="https://t.me/addstickers/Maxim7XStickers">VOLUME 1</a> • <a href="https://t.me/addstickers/Maxim8XStickers">VOLUME 2</a> •
 
+• <a href="https://t.me/addstickers/Maxim11XStickers">VOLUME 3</a> • <a href="https://t.me/addstickers/Maxim13XStickers">VOLUME 4</a> •
+</b>
 </div>
 </details>
