@@ -8,9 +8,9 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/1.jpg">
 
 <b>
-• <a href="https://t.me/addstickers/Maxim1XStickers"> iPhone Memoji 1</a> • <a href="https://t.me/addstickers/Maxim3XStickers"> iPhone Memoji 2</a> •
+• <a href="https://t.me/addstickers/Maxim1XStickers"> iPhone Memoji 1</a> ✘ <a href="https://t.me/addstickers/Maxim3XStickers"> iPhone Memoji 2</a> •
 
-• <a href="https://t.me/addstickers/Maxim4XStickers"> iPhone Memoji 3</a> • <a href="https://t.me/addstickers/Maxim5XStickers"> iPhone Memoji 4</a> • 
+• <a href="https://t.me/addstickers/Maxim4XStickers"> iPhone Memoji 3</a> ✘ <a href="https://t.me/addstickers/Maxim5XStickers"> iPhone Memoji 4</a> • 
 
 </b>
 </div>
@@ -21,9 +21,9 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/2.jpg">
 
 <b>
-• <a href="https://t.me/addstickers/Maxim7XStickers">VOLUME 1</a> • <a href="https://t.me/addstickers/Maxim8XStickers">VOLUME 2</a> •
+• <a href="https://t.me/addstickers/Maxim7XStickers">VOLUME 1</a> ✘ <a href="https://t.me/addstickers/Maxim8XStickers">VOLUME 2</a> •
 
-• <a href="https://t.me/addstickers/Maxim11XStickers">VOLUME 3</a> • <a href="https://t.me/addstickers/Maxim13XStickers">VOLUME 4</a> •
+• <a href="https://t.me/addstickers/Maxim11XStickers">VOLUME 3</a> ✘ <a href="https://t.me/addstickers/Maxim13XStickers">VOLUME 4</a> •
 </b>
 </div>
 </details>
@@ -33,7 +33,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/6.jpg">
 
 <b>
-<a href="https://t.me/addstickers/Maxim14XStickers">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/Maxim14XStickers">Get Sticker</a> ◁
 
 </b>
 </div>
@@ -44,7 +44,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/7.jpg">
 
 <b>
-<a href="https://t.me/addstickers/Maxim15XStickers">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/Maxim15XSticker">Get Stickers</a> ◁
 
 </b>
 </div>
@@ -55,7 +55,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/8.jpg">
 
 <b>
-<a href="https://t.me/addstickers/PriyankaMongia">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/PriyankaMongia">Get Sticker</a> ◁
 
 </b>
 </div>
@@ -66,7 +66,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/Gif.mp4">
 
 <b>
-<a href="https://t.me/addstickers/Maxim16XStickers">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/Maxim16XStickers">Get Sticker</a> ◁
 
 </b>
 </div>
@@ -77,7 +77,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/9.jpg">
 
 <b>
-<a href="https://t.me/addstickers/Maxim17XStickers">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/Maxim17XStickers">Get Sticker</a> ◁
 
 </b>
 </div>
@@ -88,7 +88,7 @@
 <div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/10.jpg">
 
 <b>
-<a href="https://t.me/addstickers/Maxim18XStickers">Get Stickers</a>
+▷ <a href="https://t.me/addstickers/Maxim18XStickers">Get Sticker</a> ◁
 
 </b>
 </div>
