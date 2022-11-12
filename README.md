@@ -28,3 +28,14 @@
 </b>
 </div>
 </details>
+<details>
+<summary><h4>Cutie Pie</h4></summary>
+
+<div align="center"> <img src="https://github.com/ikx7a/Stickers/blob/main/Resources/6.jpg">
+
+<b>
+<a href="https://t.me/addstickers/Maxim14XStickers">Get Stickers</a>
+
+</b>
+</div>
+</details>
